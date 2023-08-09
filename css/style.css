@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  }
+  
+  header {
+  width: 100vw;
+  background-image: url('../img/book.avif');
+  background-size: cover;
+  }
+  
+  
+  header div{
+  text-align: center;
+  padding-block: 150px;
+  }
+  
+  
+  h1 {
+  font-size: 23px;
+  color: blue;
+  }
+  
+  
+  h2 {
+  font-size: 23px;
+  color: blue;
+  }
+  
+  
+  #Hobbies-section p {
+  text-align: center;
+  margin: 64px auto;
+  width: 780px;
+  border: .2rem solid black;
+  font-size: 40px;
+  background-color: blue;
+  }
+  
+  
+  #Hobbies-section ul li {
+  list-style: none;
+  height: 30px;
+  align-items: center;
+  font-size: 30px;
+  }
+  
+  
+  #Hobbies-section ul {
+    border: .2rem solid black;
+    text-align: center;
+    }
+    
+    
+    main {
+    background-color: bisque;
+    }
+    
+    
+    footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-decoration: underline;
+    height: 20px;
+    padding-top: 15px;
+    }
+    
