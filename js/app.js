@@ -3,8 +3,7 @@
 console.log("hello world");
 
 let username = prompt("whats your username?");
-
-console.log(username + " is a cool name");
+alert(username + " is a cool name");
 
 let sports = prompt("do Angel like sports?").toLocaleLowerCase();
 
@@ -45,3 +44,5 @@ if (braiding === 'y' || braiding === 'yes') {
 } else {
   alert("Wrong, Angel does like braiding hair!");
 }
+
+
